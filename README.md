@@ -23,7 +23,7 @@
 
 ## 🧠 LeetCode Stats
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/abhi1905?theme=dark&font=Baloo&ext=contest" />
+  <img src="https://leetcard.jacoblin.cool/Abhi_1905?theme=dark&font=Baloo&ext=contest" />
 </div>
 
 ---
