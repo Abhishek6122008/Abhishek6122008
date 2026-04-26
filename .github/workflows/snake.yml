@@ -10,13 +10,16 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: Platane/snk@v3
+      - name: Generate snake
+        uses: Platane/snk@v3
         with:
           github_user_name: Abhishek6122008
           outputs: dist/snake.svg
 
-      - uses: crazy-max/ghaction-github-pages@v3
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}   # ✅ REQUIRED
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}   # ✅ ADD THIS LINE
           target_branch: output
           build_dir: dist
