@@ -9,7 +9,7 @@
 - 🌱 Learning: Data Structures & Algorithms + App Development  
 - 🎯 Goal: 500 DSA problems & real-world apps  
 - 💬 Ask me about: Java, Flutter, DSA  
-- ⚡ Fun fact: Code + Gym + Guitar  
+- ⚡ Fun fact: Code + Gym + Books 
 
 ---
 
