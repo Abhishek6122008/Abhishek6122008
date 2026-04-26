@@ -17,5 +17,6 @@ jobs:
 
       - uses: crazy-max/ghaction-github-pages@v3
         with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}   # ✅ ADD THIS LINE
           target_branch: output
           build_dir: dist
