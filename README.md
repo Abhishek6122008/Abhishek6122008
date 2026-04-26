@@ -19,11 +19,7 @@
 ![](https://streak-stats.demolab.com/?user=Abhishek6122008&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Abhishek6122008&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+![snake gif](https://github.com/Abhishek6122008/Abhishek6122008/blob/output/github-snake-dark.svg)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Abhishek6122008&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
