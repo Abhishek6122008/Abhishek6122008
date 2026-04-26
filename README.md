@@ -1,7 +1,10 @@
 # 💫 Hi 👋, I'm Abhishek
 
-**DSA Enthusiast | Flutter Developer | Java**
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=DSA+Enthusiast;Flutter+Developer;Java+Programmer;Building+Consistency+Everyday" />
 
+---
+
+## 🚀 About Me
 - 🔭 Currently: Solving DSA & building Flutter apps  
 - 🌱 Learning: Data Structures & Algorithms + App Development  
 - 🎯 Goal: 500 DSA problems & real-world apps  
@@ -14,6 +17,13 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abhishek6122008&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek6122008&theme=aura&hide_border=true" width="50%" />
+</div>
+
+---
+
+## 🧠 LeetCode Stats
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/abhi1905?theme=dark&font=Baloo&ext=contest" />
 </div>
 
 ---
