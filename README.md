@@ -5,12 +5,25 @@
 ---
 
 ## 🚀 About Me
+
+<table>
+<tr>
+<td>
+
 - 🔭 Currently: Solving DSA & building Flutter apps  
-- 🌱 Learning: Data Structures & Algorithms + App Development  
+- 🌱 Learning: Data Structures & Algorithms + App Dev  
 - 🎯 Goal: 300 DSA problems & real-world apps  
 - 💬 Ask me about: Java, Flutter, DSA  
-- ⚡ Fun fact: Code + Gym + Books 
+- ⚡ Fun fact: Code + Gym + Books  
 
+</td>
+
+<td valign="middle">
+<img src="https://i.pinimg.com/originals/41/7e/be/417ebee986aec41629278b1e04cfbfe9.gif" width="250"/>
+</td>
+
+</tr>
+</table>
 ---
 
 ## 📊 GitHub Stats
