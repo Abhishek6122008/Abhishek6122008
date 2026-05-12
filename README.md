@@ -29,7 +29,8 @@
 ## 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abhishek6122008&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek6122008&theme=aura&hide_border=true" width="50%" />
+  
+  <img src="https://streak-stats.demolab.com?user=Abhishek6122008&theme=aura&hide_border=true" width="50%" />
 </div>
 
 ---
