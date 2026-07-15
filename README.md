@@ -56,6 +56,6 @@
 ## 📈 Contribution Timeline
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abhishek6122008&theme=github-dark&hide_border=true)]
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abhishek6122008&theme=github-dark&hide_border=true)
 
 </div>
