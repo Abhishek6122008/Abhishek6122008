@@ -53,7 +53,9 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 📈 Contribution Timeline
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Abhishek6122008/Abhishek6122008/output/snake.svg" />
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abhishek6122008&theme=github-dark&hide_border=true)]
+
 </div>
