@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="210" viewBox="0 0 860 210" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace">
+<defs>
+<linearGradient id="nameGrad" x1="0" y1="0" x2="1" y2="0" gradientUnits="objectBoundingBox">
+  <stop offset="0" stop-color="#39d353"/><stop offset="0.5" stop-color="#58d5e8"/><stop offset="1" stop-color="#bc8cff"/>
+  <animateTransform attributeName="gradientTransform" type="translate" values="-1 0;1 0;-1 0" dur="8s" repeatCount="indefinite"/>
+</linearGradient>
+<linearGradient id="nameGradStatic" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0" stop-color="#39d353"/><stop offset="0.5" stop-color="#58d5e8"/><stop offset="1" stop-color="#bc8cff"/>
+</linearGradient>
+<filter id="glow" x="-20%" y="-50%" width="140%" height="200%"><feGaussianBlur stdDeviation="6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#ffffff" opacity="0.05"/></pattern>
+<linearGradient id="scan" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#39d353" stop-opacity="0"/><stop offset="1" stop-color="#39d353" stop-opacity="0.08"/></linearGradient>
+<clipPath id="inner"><rect x="1" y="33" width="858" height="176" rx="9"/></clipPath>
+<clipPath id="cmdClip"><rect x="199.20000000000002" y="40" width="0" height="20"><animate attributeName="width" from="0" to="86.0" begin="0.3s" dur="0.6s" fill="freeze"/></rect></clipPath>
+<style>
+  .fade { opacity: 0; animation: in .7s ease-out forwards; }
+  @keyframes in { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
+</style></defs>
+<rect x="0.5" y="0.5" width="859" height="209" rx="10" fill="#0d1117" stroke="#30363d"/>
+<path d="M0.5 32 V10.5 a10 10 0 0 1 10 -10 H849.5 a10 10 0 0 1 10 10 V32 Z" fill="#161b22"/>
+<line x1="0.5" y1="32" x2="859.5" y2="32" stroke="#30363d"/>
+<circle cx="18" cy="16" r="5.5" fill="#ff5f56"/><circle cx="36" cy="16" r="5.5" fill="#ffbd2e"/><circle cx="54" cy="16" r="5.5" fill="#27c93f"/>
+<text x="430.0" y="20.5" fill="#8b949e" font-size="12" text-anchor="middle">~/abhishek — zsh</text>
+
+<g clip-path="url(#inner)">
+  <rect x="0" y="32" width="860" height="210" fill="url(#dots)"/>
+  <rect x="0" y="-40" width="860" height="40" fill="url(#scan)"><animate attributeName="y" values="-10;210" dur="5s" repeatCount="indefinite"/></rect>
+</g>
+<text x="40" y="55" font-size="14"><tspan fill="#39d353">abhishek@github:~$</tspan></text>
+<text x="199.20000000000002" y="55" font-size="14" fill="#c9d1d9" textLength="84.0" clip-path="url(#cmdClip)">./hello.sh</text>
+<g class="fade" style="animation-delay:1s">
+  <text x="40" y="112" font-size="46" font-weight="800" letter-spacing="2" fill="url(#nameGrad)" filter="url(#glow)">ABHISHEK CHAUDHARY</text>
+</g>
+<g class="fade" style="animation-delay:1.4s">
+  <text x="40" y="148" font-size="16" fill="#8b949e">&gt;</text>
+</g>
+<g class="fade" style="animation-delay:1.6s"><clipPath id="r0"><rect x="60" y="132" width="0" height="22">
+<animate attributeName="width" values="0.0;134.4;134.4;0.0;0.0" keyTimes="0.0000;0.0308;0.1560;0.1860;1.0000" dur="25.0s" repeatCount="indefinite"/></rect></clipPath>
+<text x="60" y="148" font-size="16" fill="#c9d1d9" textLength="134.4" lengthAdjust="spacingAndGlyphs" clip-path="url(#r0)">Java Developer</text>
+<rect x="60" y="134" width="9" height="18" fill="#39d353" opacity="0">
+<animate attributeName="x" values="60.0;194.4;194.4;60.0;60.0" keyTimes="0.0000;0.0308;0.1560;0.1860;1.0000" dur="25.0s" repeatCount="indefinite"/>
+<animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.0000;0.1860;0.1861;1" dur="25.0s" repeatCount="indefinite" calcMode="discrete"/>
+</rect>
+<clipPath id="r1"><rect x="60" y="132" width="0" height="22">
+<animate attributeName="width" values="0.0;0.0;316.8;316.8;0.0;0.0" keyTimes="0.0000;0.2000;0.2726;0.3560;0.3860;1.0000" dur="25.0s" repeatCount="indefinite"/></rect></clipPath>
+<text x="60" y="148" font-size="16" fill="#c9d1d9" textLength="316.8" lengthAdjust="spacingAndGlyphs" clip-path="url(#r1)">Flutter Developer · Liquid Galaxy</text>
+<rect x="60" y="134" width="9" height="18" fill="#39d353" opacity="0">
+<animate attributeName="x" values="60.0;60.0;376.8;376.8;60.0;60.0" keyTimes="0.0000;0.2000;0.2726;0.3560;0.3860;1.0000" dur="25.0s" repeatCount="indefinite"/>
+<animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.2000;0.3860;0.3861;1" dur="25.0s" repeatCount="indefinite" calcMode="discrete"/>
+</rect>
+<clipPath id="r2"><rect x="60" y="132" width="0" height="22">
+<animate attributeName="width" values="0.0;0.0;278.4;278.4;0.0;0.0" keyTimes="0.0000;0.4000;0.4638;0.5560;0.5860;1.0000" dur="25.0s" repeatCount="indefinite"/></rect></clipPath>
+<text x="60" y="148" font-size="16" fill="#c9d1d9" textLength="278.4" lengthAdjust="spacingAndGlyphs" clip-path="url(#r2)">Open Source @ Apache Fineract</text>
+<rect x="60" y="134" width="9" height="18" fill="#39d353" opacity="0">
+<animate attributeName="x" values="60.0;60.0;338.4;338.4;60.0;60.0" keyTimes="0.0000;0.4000;0.4638;0.5560;0.5860;1.0000" dur="25.0s" repeatCount="indefinite"/>
+<animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.4000;0.5860;0.5861;1" dur="25.0s" repeatCount="indefinite" calcMode="discrete"/>
+</rect>
+<clipPath id="r3"><rect x="60" y="132" width="0" height="22">
+<animate attributeName="width" values="0.0;0.0;374.4;374.4;0.0;0.0" keyTimes="0.0000;0.6000;0.6858;0.7560;0.7860;1.0000" dur="25.0s" repeatCount="indefinite"/></rect></clipPath>
+<text x="60" y="148" font-size="16" fill="#c9d1d9" textLength="374.4" lengthAdjust="spacingAndGlyphs" clip-path="url(#r3)">DSA Enthusiast · 300+ LeetCode problems</text>
+<rect x="60" y="134" width="9" height="18" fill="#39d353" opacity="0">
+<animate attributeName="x" values="60.0;60.0;434.4;434.4;60.0;60.0" keyTimes="0.0000;0.6000;0.6858;0.7560;0.7860;1.0000" dur="25.0s" repeatCount="indefinite"/>
+<animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.6000;0.7860;0.7861;1" dur="25.0s" repeatCount="indefinite" calcMode="discrete"/>
+</rect>
+<clipPath id="r4"><rect x="60" y="132" width="0" height="22">
+<animate attributeName="width" values="0.0;0.0;297.6;297.6;0.0;0.0" keyTimes="0.0000;0.8000;0.8682;0.9560;0.9860;1.0000" dur="25.0s" repeatCount="indefinite"/></rect></clipPath>
+<text x="60" y="148" font-size="16" fill="#c9d1d9" textLength="297.6" lengthAdjust="spacingAndGlyphs" clip-path="url(#r4)">Building consistency, every day</text>
+<rect x="60" y="134" width="9" height="18" fill="#39d353" opacity="0">
+<animate attributeName="x" values="60.0;60.0;357.6;357.6;60.0;60.0" keyTimes="0.0000;0.8000;0.8682;0.9560;0.9860;1.0000" dur="25.0s" repeatCount="indefinite"/>
+<animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.8000;0.9860;0.9861;1" dur="25.0s" repeatCount="indefinite" calcMode="discrete"/>
+</rect></g>
+<g class="fade" style="animation-delay:1.9s">
+  <text x="40" y="182" font-size="13" fill="#8b949e">Gurgaon, IN  ·  Java, Flutter &amp; a daily dose of DSA</text>
+</g>
+
+</svg>

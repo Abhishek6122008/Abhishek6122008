@@ -1,61 +1,53 @@
-# 💫 Hi 👋, I'm Abhishek Chaudhary
+<div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=DSA+Enthusiast;Flutter+Developer;Java+Programmer;Building+Consistency+Everyday" />
+<img src="./header.svg" width="860" alt="Abhishek Chaudhary — Java and Flutter developer from Gurgaon" />
 
-
-## 🚀 About Me
+<br><br>
 
 <table>
-<tr>
-<td>
-
-- 🔭 Currently: Solving DSA & building Flutter app for Liquid Galaxy  
-- 🌱 Learning: Data Structures & Algorithms + App Dev  
-- 🎯 Goal: 300 DSA problems & real-world apps  
-- 💬 Ask me about: Java, Flutter, DSA  
-- ⚡ Hobbies : Code + Gym + Books  
-
-</td>
-
-<td valign="middle">
-<img src="https://i.pinimg.com/originals/41/7e/be/417ebee986aec41629278b1e04cfbfe9.gif" width="250"/>
-</td>
-
-</tr>
+  <tr>
+    <td valign="top"><img src="./ascii-portrait.svg" width="370" alt="ASCII portrait of Abhishek Chaudhary" /></td>
+    <td valign="top"><img src="./info-card.svg" width="490" alt="neofetch-style card: role, stack, live GitHub and LeetCode stats" /></td>
+  </tr>
 </table>
 
+<br>
 
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Abhishek6122008&theme=tokyonight&hide_border=true" width="50%" />
-</div>
+<table>
+  <tr>
+    <td valign="top"><img src="./globe.svg" width="430" alt="Rotating 3D globe with arcs from Gurgaon to the open-source projects I contribute to" /></td>
+    <td valign="top"><img src="./tech-sphere.svg" width="430" alt="Tech stack on a rotating 3D sphere" /></td>
+  </tr>
+</table>
 
----
+<br>
 
-## 🧠 LeetCode Stats
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/Abhi_1905?theme=dark&font=Baloo&ext=contest" />
-</div>
-
----
-
-## 💻 Tech Stack
-<div align="center">
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<a href="https://leetcode.com/u/Abhi_1905/"><img src="./leetcode.svg" width="860" alt="LeetCode stats: problems solved by difficulty, contest rating, streak, weekly submissions and top topics" /></a>
 
 </div>
 
----
+### 🧩 Why LeetCode is part of my routine
 
-## 📈 Contribution Timeline
+LeetCode is my daily workout. I treat it the way I treat the gym: show up every day, even if it's just one problem. My first goal was 300 problems; I'm past that now, almost all of them in Java, and the streak counter keeps me honest.
+
+What it has given me:
+
+- **Pattern recognition.** Arrays, hashing, two pointers, binary search and DP feel like tools I reach for now, not puzzles.
+- **Better Java.** Hundreds of solutions taught me collections, edge cases and time complexity better than any course.
+- **Thinking against a clock.** Contests push me to solve under pressure, which carries straight into interviews and hackathons.
+
+My notes and solutions live in [DSA-Prep](https://github.com/Abhishek6122008/DSA-Prep) and [Leet-Code](https://github.com/Abhishek6122008/Leet-Code). Come say hi on [LeetCode](https://leetcode.com/u/Abhi_1905/).
+
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abhishek6122008&theme=github-dark&hide_border=true)
+<br>
+
+<img src="./contrib-skyline.svg" width="860" alt="Isometric 3D skyline of the last year of contributions" />
+
+<br><br>
+
+<img src="./contrib-heatmap.svg" width="860" alt="Contribution heatmap for the last year" />
+
+<br><br>
 
 </div>
