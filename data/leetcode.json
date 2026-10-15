@@ -1,9 +1,9 @@
 {
   "username": "Abhi_1905",
   "solved": {
-    "All": 310,
+    "All": 311,
     "Easy": 130,
-    "Medium": 144,
+    "Medium": 145,
     "Hard": 36
   },
   "total": {
@@ -13,21 +13,21 @@
     "Hard": 983
   },
   "beats": {
-    "Easy": 93.39,
-    "Medium": 90.18,
+    "Easy": 93.38,
+    "Medium": 90.26,
     "Hard": 87.33
   },
-  "ranking": 489895,
+  "ranking": 487826,
   "contest": {
-    "rating": 1582.6642685633815,
-    "attended": 5,
-    "global_ranking": 236807,
-    "top_percentage": 27.04,
+    "rating": 1580.9787400007049,
+    "attended": 6,
+    "global_ranking": 239902,
+    "top_percentage": 27.35,
     "badge": null
   },
-  "current_streak": 40,
+  "current_streak": 41,
   "max_streak": 67,
-  "active_days": 139,
+  "active_days": 140,
   "badges": [
     "100 Days Badge 2026",
     "50 Days Badge 2026",
@@ -36,19 +36,19 @@
     "Jun LeetCoding Challenge"
   ],
   "languages": {
-    "Java": 298,
+    "Java": 299,
     "Python": 21,
     "Python3": 1
   },
   "top_tags": {
     "Array": 176,
-    "Math": 73,
+    "Math": 74,
     "String": 73,
     "Hash Table": 70,
     "Sorting": 48,
     "Two Pointers": 44,
     "Dynamic Programming": 42,
-    "Greedy": 38
+    "Greedy": 39
   },
   "calendar": {
     "2025-10-29": 6,
@@ -189,6 +189,7 @@
     "2026-10-10": 9,
     "2026-10-11": 1,
     "2026-10-12": 1,
-    "2026-10-13": 1
+    "2026-10-13": 1,
+    "2026-10-14": 1
   }
 }
