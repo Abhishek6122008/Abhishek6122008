@@ -1,9 +1,9 @@
 {
   "username": "Abhi_1905",
   "solved": {
-    "All": 330,
+    "All": 331,
     "Easy": 135,
-    "Medium": 156,
+    "Medium": 157,
     "Hard": 39
   },
   "total": {
@@ -14,10 +14,10 @@
   },
   "beats": {
     "Easy": 93.8,
-    "Medium": 91.12,
+    "Medium": 91.19,
     "Hard": 88.4
   },
-  "ranking": 448426,
+  "ranking": 446531,
   "contest": {
     "rating": 1580.9787400007049,
     "attended": 6,
@@ -36,12 +36,12 @@
     "Jun LeetCoding Challenge"
   ],
   "languages": {
-    "Java": 318,
+    "Java": 319,
     "Python": 21,
     "Python3": 1
   },
   "top_tags": {
-    "Array": 187,
+    "Array": 188,
     "Math": 77,
     "String": 75,
     "Hash Table": 73,
@@ -200,6 +200,6 @@
     "2026-10-21": 2,
     "2026-10-23": 15,
     "2026-10-24": 8,
-    "2026-10-25": 7
+    "2026-10-25": 8
   }
 }
