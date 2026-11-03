@@ -1804,12 +1804,12 @@
     {
       "date": "2026-10-28",
       "level": 1,
-      "count": 5
+      "count": 6
     },
     {
       "date": "2026-10-29",
       "level": 1,
-      "count": 3
+      "count": 4
     },
     {
       "date": "2026-10-30",
@@ -1828,19 +1828,24 @@
     },
     {
       "date": "2026-11-02",
-      "level": 0,
-      "count": 0
+      "level": 1,
+      "count": 1
+    },
+    {
+      "date": "2026-11-03",
+      "level": 1,
+      "count": 1
     }
   ],
   "stats": {
-    "total": 729,
-    "current_streak": 22,
-    "longest_streak": 22,
+    "total": 733,
+    "current_streak": 24,
+    "longest_streak": 24,
     "best_day": {
       "date": "2026-10-03",
       "count": 50
     },
-    "active_days": 157,
+    "active_days": 159,
     "busiest_weekday": "Saturday",
     "monthly": {
       "2025-11": 22,
@@ -1854,12 +1859,12 @@
       "2026-07": 84,
       "2026-08": 80,
       "2026-09": 72,
-      "2026-10": 110,
-      "2026-11": 1
+      "2026-10": 112,
+      "2026-11": 3
     },
     "range": [
       "2025-11-02",
-      "2026-11-02"
+      "2026-11-03"
     ]
   }
 }
