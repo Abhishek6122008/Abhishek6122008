@@ -2,41 +2,6 @@
   "username": "Abhishek6122008",
   "days": [
     {
-      "date": "2025-11-02",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-11-03",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-11-04",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-11-05",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-11-06",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-11-07",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-11-08",
-      "level": 0,
-      "count": 0
-    },
-    {
       "date": "2025-11-09",
       "level": 0,
       "count": 0
@@ -1849,23 +1814,28 @@
     {
       "date": "2026-11-06",
       "level": 1,
-      "count": 5
+      "count": 7
     },
     {
       "date": "2026-11-07",
-      "level": 0,
-      "count": 0
+      "level": 1,
+      "count": 1
+    },
+    {
+      "date": "2026-11-08",
+      "level": 1,
+      "count": 2
     }
   ],
   "stats": {
-    "total": 753,
-    "current_streak": 27,
-    "longest_streak": 27,
+    "total": 758,
+    "current_streak": 29,
+    "longest_streak": 29,
     "best_day": {
       "date": "2026-10-03",
       "count": 50
     },
-    "active_days": 162,
+    "active_days": 164,
     "busiest_weekday": "Saturday",
     "monthly": {
       "2025-11": 22,
@@ -1880,11 +1850,11 @@
       "2026-08": 80,
       "2026-09": 72,
       "2026-10": 114,
-      "2026-11": 21
+      "2026-11": 26
     },
     "range": [
-      "2025-11-02",
-      "2026-11-07"
+      "2025-11-09",
+      "2026-11-08"
     ]
   }
 }
