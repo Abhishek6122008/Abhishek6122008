@@ -1,24 +1,25 @@
 {
   "name": "Abhishek Chaudhary",
   "created_at": "2025-02-03T14:08:46Z",
-  "public_repos": 38,
+  "public_repos": 41,
   "followers": 6,
   "stars": 5,
   "languages": {
     "Jupyter Notebook": 2971176,
-    "Java": 768867,
-    "JavaScript": 761287,
-    "Python": 426582,
+    "Java": 904178,
+    "JavaScript": 810697,
+    "Python": 436647,
     "Dart": 322435,
-    "HTML": 130437,
+    "HTML": 140679,
     "C++": 58922,
     "CMake": 49081,
     "Kotlin": 38927,
     "C": 32709,
-    "Shell": 17612,
-    "Dockerfile": 10747,
+    "Shell": 31431,
+    "Dockerfile": 12104,
+    "CSS": 4865,
     "Swift": 4417,
-    "CSS": 2666,
+    "PLpgSQL": 621,
     "Objective-C": 76
   }
 }
