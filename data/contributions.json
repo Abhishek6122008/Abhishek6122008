@@ -1834,7 +1834,7 @@
     {
       "date": "2026-11-17",
       "level": 1,
-      "count": 2
+      "count": 3
     },
     {
       "date": "2026-11-18",
@@ -1844,23 +1844,28 @@
     {
       "date": "2026-11-19",
       "level": 1,
-      "count": 3
+      "count": 4
     },
     {
       "date": "2026-11-20",
+      "level": 1,
+      "count": 1
+    },
+    {
+      "date": "2026-11-21",
       "level": 0,
       "count": 0
     }
   ],
   "stats": {
-    "total": 893,
-    "current_streak": 40,
-    "longest_streak": 40,
+    "total": 896,
+    "current_streak": 41,
+    "longest_streak": 41,
     "best_day": {
       "date": "2026-10-03",
       "count": 50
     },
-    "active_days": 162,
+    "active_days": 163,
     "busiest_weekday": "Saturday",
     "monthly": {
       "2025-11": 19,
@@ -1875,11 +1880,11 @@
       "2026-08": 80,
       "2026-09": 72,
       "2026-10": 140,
-      "2026-11": 166
+      "2026-11": 169
     },
     "range": [
       "2025-11-16",
-      "2026-11-20"
+      "2026-11-21"
     ]
   }
 }
